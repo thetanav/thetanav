@@ -4,6 +4,7 @@
 Builder. Systems thinker. Terminal enjoyer. I like making fast things, weird things, and occasionally useful things.
 
 # 🔭 Projects I have worked
+- [Edit](https://github.com/thetanav/edit): opensource local first ai code agent with all the tools and vercel sandbox.
 - [Vidora](https://github.com/thetanav/vidora): video processing with r2 storage, video uploads, and channels like youtube.
 - [ADAS](https://github.com/thetanav/road-vision): vision model trained on traffic signals and road image to track and alert driver.
 - [Uber](https://github.com/thetanav/uber): uber like app that has ride booking, realtime driver tracking, otp and all.
@@ -23,10 +24,10 @@ Builder. Systems thinker. Terminal enjoyer. I like making fast things, weird thi
 - [Poll](https://github.com/thetanav/poll): oss polling app with convex.
 - [WS Pong](https://github.com/thetanav/ws-pong): realtime pong game in go and react.
 - [Chugli](https://github.com/thetanav/chugli): realtime chat in next js with upstash.
-- [sesn](https://github.com/thetanav/sesn): tmux session manager cli with go.
-- [keystrike](https://github.com/thetanav/keystrike): reaction time game in cli with java.
+- [Sesn](https://github.com/thetanav/sesn): tmux session manager cli with go.
+- [Keystrike](https://github.com/thetanav/keystrike): reaction time game in cli with java.
 - [AI flappy](https://github.com/thetanav/aiflappy): ai learn to play flappy bird with reinforcement learning.
-- [http](https://github.com/thetanav/http-from-scratch): http from scratch with go.
+- [Http](https://github.com/thetanav/http-from-scratch): http from scratch with go.
 
 # 🌱 I’m currently learning
 - System design
