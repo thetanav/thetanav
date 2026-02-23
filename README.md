@@ -1,9 +1,9 @@
-![](https://komarev.com/ghpvc/?username=thetanav)
-
-## 👋 Hey, I'm Tanav
+<strong># TANAV POSWAL</strong>
+  
 Builder. Systems thinker. Terminal enjoyer. I like making fast things, weird things, and occasionally useful things.
 
-# 🔭 Projects I have worked
+🔭 Projects I have worked
+
 - [Edit](https://github.com/thetanav/edit): opensource local first ai code agent with all the tools and vercel sandbox.
 - [Vidora](https://github.com/thetanav/vidora): video processing with r2 storage, video uploads, and channels like youtube.
 - [ADAS](https://github.com/thetanav/road-vision): vision model trained on traffic signals and road image to track and alert driver.
@@ -28,17 +28,17 @@ Builder. Systems thinker. Terminal enjoyer. I like making fast things, weird thi
 - [Keystrike](https://github.com/thetanav/keystrike): reaction time game in cli with java.
 - [AI flappy](https://github.com/thetanav/aiflappy): ai learn to play flappy bird with reinforcement learning.
 - [Http](https://github.com/thetanav/http-from-scratch): http from scratch with go.
+- more comming sooooon
 
-# 🌱 I’m currently learning
-- System design
-- Low level things
-- Realtime apps
-- Gen AI
+🌱 I’m currently learning
 
-# 📫 How to reach me
-- [X/Twitter](https://x.com/tanavtwt)
-- [Portfolio](https://tanav.me)
+* System design
+* Low level things
+* DL
 
-## ⚡ Lore
-Learning code from 12.
-Still chasing the feeling of making something fast and alive.
+📫 How to reach me
+
+* [X/Twitter](https://x.com/tanavtwt)
+* [Portfolio](https://tanav.me)
+
+![](https://komarev.com/ghpvc/?username=thetanav)
