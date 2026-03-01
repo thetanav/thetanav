@@ -4,6 +4,7 @@ Builder. Systems thinker. Terminal enjoyer. I like making fast things, weird thi
 
 🔭 Projects I have worked
 
+- [CITY](https://github.com/thetanav/city): event management app with tickets booking and emails
 - [Edit](https://github.com/thetanav/edit): opensource local first ai code agent with all the tools and vercel sandbox.
 - [Vidora](https://github.com/thetanav/vidora): video processing with r2 storage, video uploads, and channels like youtube.
 - [ADAS](https://github.com/thetanav/road-vision): vision model trained on traffic signals and road image to track and alert driver.
