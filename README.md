@@ -2,7 +2,7 @@
   
 Builder. Systems thinker. Terminal enjoyer. I like making fast things, weird things, and occasionally useful things.
 
-🔭 Projects I have worked
+🔭 Projects I have build
 
 - [CITY](https://github.com/thetanav/city): event management app with tickets booking and emails
 - [Edit](https://github.com/thetanav/edit): opensource local first ai code agent with all the tools and vercel sandbox.
